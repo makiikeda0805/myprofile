@@ -1,0 +1,111 @@
+body{
+  font-family: Verdana,sans-serif;
+  text-align:center;
+  width:800px;
+  margin:0;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+header{
+  background-color:#222222;
+  padding-top:32px;
+  padding-bottom:32px;
+  color:#EEEEEE
+}
+
+body{
+  background-color:#efefef;
+}
+
+.container{
+  width:600px;
+  margin-left:auto;
+  margin-right:auto;
+  display:flex;
+  align-items:center;
+  text-align:center;
+  }
+
+  .icon img{
+border-radius:50%;
+border-width:3px;
+border-style:solid;
+border-color:white
+}
+
+.twitter img{
+  border-radius:8px;
+  margin-bottom:5px;
+}
+
+.instagram img{
+  border-radius:8px;
+  margin-bottom:5px;
+}
+
+.info h1{
+  font-weight:400;
+  font-size:50px;
+  margin-bottom:5px;
+  margin-left:10px;
+}
+
+.info p{
+  margin:0;
+  margin-bottom:10px;
+}
+
+.info ul{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+  display: flex;
+}
+.info ul li{
+  margin-right:8px;
+  margin-left:10px;
+}
+
+.info p{
+  margin-left:10px;
+}
+
+body h1{
+  background-color:#222;
+  font-size:40px;
+  color:#efefef;
+  font-weight :100;
+  margin-top:50px;
+  margin-bottom:50px;
+  padding:10px;
+  
+}
+
+body img{
+  margin-top:10px;
+  margin-bottom:30px;
+}
+
+body h2{
+  background-color:#999999;
+  color:#222;
+}
+
+
+.hobby p{
+  font-size:16px;
+}
+
+footer{
+  margin-top:40px;
+  margin-bottom:100px;
+  font-weight:normal;
+  color:#999999;
+  border:solid;
+  border-left:none;
+  border-right:none;
+  border-bottom:none;
+  border-width:1.5px;
+  padding-top:30px;
+}
